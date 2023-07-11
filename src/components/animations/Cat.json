@@ -1,0 +1,1320 @@
+{
+    "anims": [
+        {
+            "key": "cat_attack",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "attack0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "attack6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_crouch",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "crouch-0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch-7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "crouch7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_dash",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "dash0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "dash8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_die",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "die0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "die7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_fall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "fall0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fall1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fall2.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_fright",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "fright0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "fright7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_hurt",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "hurt0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "hurt1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "hurt2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "hurt3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_idle_blink",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "idle_blink0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle_blink7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "idle0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "idle7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "jump0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "jump1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "jump2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "jump3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_land",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "land0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "land1.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_ledgeclimb_struggle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb_struggle9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_ledgeclimb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeclimb9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_ledgegrab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "ledgegrab0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgegrab1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgegrab2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgegrab3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgegrab4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_ledgeidle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "ledgeidle7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_liedown",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "liedown0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown18.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown19.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown20.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown21.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown22.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown23.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "liedown9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_run",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "run0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "run1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "run2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "run3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_sit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "sit0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sit7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_sneak",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "sneak0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "sneak7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "walk0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "walk7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_wallclimb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "wallclimb0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallclimb7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "cat_wallgrab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cat",
+                    "frame": "wallgrab0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cat",
+                    "frame": "wallgrab7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

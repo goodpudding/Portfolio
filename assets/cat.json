@@ -1,0 +1,3821 @@
+{
+	"textures": [
+		{
+			"image": "cat.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 450
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "attack1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 27,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 27,
+						"h": 21
+					}
+				},
+				{
+					"filename": "attack2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 24,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "dash1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 30,
+						"y": 1,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "dash3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 26,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 45,
+						"w": 26,
+						"h": 16
+					}
+				},
+				{
+					"filename": "dash5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 26,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 45,
+						"w": 26,
+						"h": 16
+					}
+				},
+				{
+					"filename": "fall2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 23,
+						"h": 19
+					},
+					"frame": {
+						"x": 54,
+						"y": 1,
+						"w": 23,
+						"h": 19
+					}
+				},
+				{
+					"filename": "fright1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 21,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 63,
+						"w": 21,
+						"h": 20
+					}
+				},
+				{
+					"filename": "jump2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 21,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 85,
+						"w": 21,
+						"h": 20
+					}
+				},
+				{
+					"filename": "jump3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 21,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 107,
+						"w": 21,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ledgegrab0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 21,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 107,
+						"w": 21,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ledgeclimb6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 21,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 129,
+						"w": 21,
+						"h": 20
+					}
+				},
+				{
+					"filename": "dash2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 24,
+						"h": 16
+					},
+					"frame": {
+						"x": 79,
+						"y": 1,
+						"w": 24,
+						"h": 16
+					}
+				},
+				{
+					"filename": "fright2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 17,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fright4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 17,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 19,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 151,
+						"w": 19,
+						"h": 21
+					}
+				},
+				{
+					"filename": "attack0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 14,
+						"w": 19,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 174,
+						"w": 19,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ledgegrab1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 13,
+						"w": 19,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 196,
+						"w": 19,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ledgegrab2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 18,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 18,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeidle5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 18,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 241,
+						"w": 18,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wallclimb0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 264,
+						"w": 14,
+						"h": 25
+					}
+				},
+				{
+					"filename": "wallclimb2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 291,
+						"w": 14,
+						"h": 25
+					}
+				},
+				{
+					"filename": "wallclimb1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 11,
+						"w": 13,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 318,
+						"w": 13,
+						"h": 25
+					}
+				},
+				{
+					"filename": "wallclimb4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 345,
+						"w": 14,
+						"h": 24
+					}
+				},
+				{
+					"filename": "wallclimb6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 371,
+						"w": 14,
+						"h": 24
+					}
+				},
+				{
+					"filename": "wallclimb3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 397,
+						"w": 15,
+						"h": 23
+					}
+				},
+				{
+					"filename": "wallclimb7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 422,
+						"w": 15,
+						"h": 23
+					}
+				},
+				{
+					"filename": "attack3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 79,
+						"y": 19,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "dash0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 79,
+						"y": 19,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "jump0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 79,
+						"y": 19,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fright6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 17,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 105,
+						"y": 20,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "crouch-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 20,
+						"w": 23,
+						"h": 14
+					},
+					"frame": {
+						"x": 54,
+						"y": 22,
+						"w": 23,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 20,
+						"w": 23,
+						"h": 14
+					},
+					"frame": {
+						"x": 54,
+						"y": 22,
+						"w": 23,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 30,
+						"y": 23,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "crouch0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 30,
+						"y": 23,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "dash4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 24,
+						"h": 16
+					},
+					"frame": {
+						"x": 29,
+						"y": 38,
+						"w": 24,
+						"h": 16
+					}
+				},
+				{
+					"filename": "dash8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 55,
+						"y": 38,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "land1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 55,
+						"y": 38,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ledgeclimb10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 11,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 55,
+						"y": 38,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "crouch-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 24,
+						"h": 13
+					},
+					"frame": {
+						"x": 29,
+						"y": 56,
+						"w": 24,
+						"h": 13
+					}
+				},
+				{
+					"filename": "crouch3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 24,
+						"h": 13
+					},
+					"frame": {
+						"x": 29,
+						"y": 56,
+						"w": 24,
+						"h": 13
+					}
+				},
+				{
+					"filename": "run3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 21,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 71,
+						"w": 21,
+						"h": 19
+					}
+				},
+				{
+					"filename": "attack4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 92,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "attack5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 92,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "attack6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 92,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "idle1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 92,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "idle_blink1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 92,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "idle5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 113,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "idle_blink5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 24,
+						"y": 113,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "fright3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 24,
+						"y": 134,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fright5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 24,
+						"y": 134,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "idle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 22,
+						"y": 153,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle_blink2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 22,
+						"y": 153,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 22,
+						"y": 173,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle_blink4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 22,
+						"y": 173,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "sit5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 22,
+						"y": 193,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "crouch-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 23,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 57,
+						"w": 23,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 23,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 57,
+						"w": 23,
+						"h": 14
+					}
+				},
+				{
+					"filename": "dash6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 25,
+						"h": 14
+					},
+					"frame": {
+						"x": 47,
+						"y": 73,
+						"w": 25,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fall1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 25,
+						"h": 14
+					},
+					"frame": {
+						"x": 47,
+						"y": 73,
+						"w": 25,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 24,
+						"h": 13
+					},
+					"frame": {
+						"x": 79,
+						"y": 35,
+						"w": 24,
+						"h": 13
+					}
+				},
+				{
+					"filename": "crouch4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 24,
+						"h": 13
+					},
+					"frame": {
+						"x": 79,
+						"y": 35,
+						"w": 24,
+						"h": 13
+					}
+				},
+				{
+					"filename": "jump1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 19,
+						"w": 22,
+						"h": 15
+					},
+					"frame": {
+						"x": 105,
+						"y": 39,
+						"w": 22,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hurt1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 23,
+						"h": 15
+					},
+					"frame": {
+						"x": 80,
+						"y": 50,
+						"w": 23,
+						"h": 15
+					}
+				},
+				{
+					"filename": "sneak3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 19,
+						"w": 22,
+						"h": 15
+					},
+					"frame": {
+						"x": 105,
+						"y": 56,
+						"w": 22,
+						"h": 15
+					}
+				},
+				{
+					"filename": "die2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 23,
+						"h": 14
+					},
+					"frame": {
+						"x": 80,
+						"y": 67,
+						"w": 23,
+						"h": 14
+					}
+				},
+				{
+					"filename": "sneak7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 19,
+						"w": 22,
+						"h": 15
+					},
+					"frame": {
+						"x": 105,
+						"y": 73,
+						"w": 22,
+						"h": 15
+					}
+				},
+				{
+					"filename": "die1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 17,
+						"w": 25,
+						"h": 14
+					},
+					"frame": {
+						"x": 47,
+						"y": 89,
+						"w": 25,
+						"h": 14
+					}
+				},
+				{
+					"filename": "hurt0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 24,
+						"h": 15
+					},
+					"frame": {
+						"x": 46,
+						"y": 105,
+						"w": 24,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hurt2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 24,
+						"h": 15
+					},
+					"frame": {
+						"x": 74,
+						"y": 83,
+						"w": 24,
+						"h": 15
+					}
+				},
+				{
+					"filename": "liedown6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 90,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "crouch-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 74,
+						"y": 100,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 74,
+						"y": 100,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "liedown7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 21,
+						"w": 26,
+						"h": 13
+					},
+					"frame": {
+						"x": 100,
+						"y": 105,
+						"w": 26,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ledgeclimb8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 25,
+						"h": 14
+					},
+					"frame": {
+						"x": 72,
+						"y": 116,
+						"w": 25,
+						"h": 14
+					}
+				},
+				{
+					"filename": "die3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 47,
+						"y": 122,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "fright0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 47,
+						"y": 137,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "walk1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 45,
+						"y": 153,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "walk5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 45,
+						"y": 174,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "idle3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 45,
+						"y": 195,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "liedown0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 25,
+						"h": 13
+					},
+					"frame": {
+						"x": 99,
+						"y": 120,
+						"w": 25,
+						"h": 13
+					}
+				},
+				{
+					"filename": "hurt3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 73,
+						"y": 132,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "liedown1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 25,
+						"h": 13
+					},
+					"frame": {
+						"x": 99,
+						"y": 135,
+						"w": 25,
+						"h": 13
+					}
+				},
+				{
+					"filename": "sneak4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 73,
+						"y": 148,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "liedown2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 25,
+						"h": 13
+					},
+					"frame": {
+						"x": 99,
+						"y": 150,
+						"w": 25,
+						"h": 13
+					}
+				},
+				{
+					"filename": "walk2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 164,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle_blink3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 90,
+						"y": 165,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "wallgrab2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 23
+					},
+					"frame": {
+						"x": 113,
+						"y": 165,
+						"w": 14,
+						"h": 23
+					}
+				},
+				{
+					"filename": "walk4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 18
+					},
+					"frame": {
+						"x": 68,
+						"y": 184,
+						"w": 21,
+						"h": 18
+					}
+				},
+				{
+					"filename": "run2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 20,
+						"h": 18
+					},
+					"frame": {
+						"x": 91,
+						"y": 184,
+						"w": 20,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wallgrab6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 14,
+						"h": 21
+					},
+					"frame": {
+						"x": 113,
+						"y": 190,
+						"w": 14,
+						"h": 21
+					}
+				},
+				{
+					"filename": "liedown5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 25,
+						"h": 13
+					},
+					"frame": {
+						"x": 68,
+						"y": 204,
+						"w": 25,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ledgeclimb2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 16,
+						"h": 21
+					},
+					"frame": {
+						"x": 95,
+						"y": 204,
+						"w": 16,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 16,
+						"h": 21
+					},
+					"frame": {
+						"x": 95,
+						"y": 204,
+						"w": 16,
+						"h": 21
+					}
+				},
+				{
+					"filename": "crouch-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 22,
+						"y": 213,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 22,
+						"y": 213,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "crouch-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 21,
+						"h": 13
+					},
+					"frame": {
+						"x": 45,
+						"y": 214,
+						"w": 21,
+						"h": 13
+					}
+				},
+				{
+					"filename": "crouch7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 21,
+						"h": 13
+					},
+					"frame": {
+						"x": 45,
+						"y": 214,
+						"w": 21,
+						"h": 13
+					}
+				},
+				{
+					"filename": "sneak5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 21,
+						"w": 25,
+						"h": 13
+					},
+					"frame": {
+						"x": 68,
+						"y": 219,
+						"w": 25,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ledgeclimb3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 21,
+						"y": 229,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 21,
+						"y": 229,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 40,
+						"y": 229,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "sneak6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 24,
+						"h": 14
+					},
+					"frame": {
+						"x": 21,
+						"y": 252,
+						"w": 24,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ledgeclimb5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 17,
+						"y": 268,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 17,
+						"y": 291,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wallgrab5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 15,
+						"h": 23
+					},
+					"frame": {
+						"x": 36,
+						"y": 268,
+						"w": 15,
+						"h": 23
+					}
+				},
+				{
+					"filename": "ledgeclimb0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 36,
+						"y": 293,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 36,
+						"y": 293,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 36,
+						"y": 293,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "die0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 15,
+						"w": 22,
+						"h": 14
+					},
+					"frame": {
+						"x": 47,
+						"y": 252,
+						"w": 22,
+						"h": 14
+					}
+				},
+				{
+					"filename": "run0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 21,
+						"h": 16
+					},
+					"frame": {
+						"x": 59,
+						"y": 234,
+						"w": 21,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ledgeidle1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 12,
+						"w": 16,
+						"h": 22
+					},
+					"frame": {
+						"x": 53,
+						"y": 268,
+						"w": 16,
+						"h": 22
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 16,
+						"h": 21
+					},
+					"frame": {
+						"x": 53,
+						"y": 292,
+						"w": 16,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wallclimb5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 11,
+						"w": 13,
+						"h": 22
+					},
+					"frame": {
+						"x": 71,
+						"y": 252,
+						"w": 13,
+						"h": 22
+					}
+				},
+				{
+					"filename": "wallgrab1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 71,
+						"y": 276,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "sit3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 18,
+						"w": 21,
+						"h": 16
+					},
+					"frame": {
+						"x": 82,
+						"y": 234,
+						"w": 21,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wallgrab3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 86,
+						"y": 252,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "wallgrab4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 88,
+						"y": 276,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "die4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 71,
+						"y": 300,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "die5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 71,
+						"y": 300,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "die6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 71,
+						"y": 300,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "die7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 71,
+						"y": 300,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "fall0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 18,
+						"w": 22,
+						"h": 14
+					},
+					"frame": {
+						"x": 105,
+						"y": 227,
+						"w": 22,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ledgeclimb7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 22,
+						"h": 14
+					},
+					"frame": {
+						"x": 105,
+						"y": 243,
+						"w": 22,
+						"h": 14
+					}
+				},
+				{
+					"filename": "sneak0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 22,
+						"h": 14
+					},
+					"frame": {
+						"x": 105,
+						"y": 259,
+						"w": 22,
+						"h": 14
+					}
+				},
+				{
+					"filename": "sneak2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 22,
+						"h": 14
+					},
+					"frame": {
+						"x": 105,
+						"y": 275,
+						"w": 22,
+						"h": 14
+					}
+				},
+				{
+					"filename": "dash7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 105,
+						"y": 291,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "land0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 105,
+						"y": 291,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ledgeclimb9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 15,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 105,
+						"y": 291,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "liedown3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 53,
+						"y": 315,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "fright7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 78,
+						"y": 315,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 98,
+						"y": 306,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "idle0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 98,
+						"y": 329,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle_blink0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 98,
+						"y": 329,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "ledgeclimb1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 16,
+						"y": 318,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 16,
+						"y": 318,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeidle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 18,
+						"h": 20
+					},
+					"frame": {
+						"x": 33,
+						"y": 316,
+						"w": 18,
+						"h": 20
+					}
+				},
+				{
+					"filename": "liedown4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 21,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 53,
+						"y": 330,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "idle7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 17,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 78,
+						"y": 334,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "idle_blink7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 17,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 78,
+						"y": 334,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 17,
+						"y": 341,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 17,
+						"y": 364,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeidle0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 16,
+						"h": 21
+					},
+					"frame": {
+						"x": 34,
+						"y": 338,
+						"w": 16,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeidle6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 16,
+						"h": 21
+					},
+					"frame": {
+						"x": 34,
+						"y": 361,
+						"w": 16,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeidle4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 18,
+						"h": 20
+					},
+					"frame": {
+						"x": 52,
+						"y": 345,
+						"w": 18,
+						"h": 20
+					}
+				},
+				{
+					"filename": "idle6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 52,
+						"y": 367,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "idle_blink6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 52,
+						"y": 367,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "ledgegrab3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 18,
+						"y": 387,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "ledgeclimb_struggle5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 18,
+						"y": 410,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "sit2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 18,
+						"y": 432,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ledgegrab4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 35,
+						"y": 384,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "run1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 20,
+						"h": 17
+					},
+					"frame": {
+						"x": 52,
+						"y": 387,
+						"w": 20,
+						"h": 17
+					}
+				},
+				{
+					"filename": "sit1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 20,
+						"h": 18
+					},
+					"frame": {
+						"x": 36,
+						"y": 406,
+						"w": 20,
+						"h": 18
+					}
+				},
+				{
+					"filename": "ledgeidle3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 14,
+						"w": 18,
+						"h": 19
+					},
+					"frame": {
+						"x": 58,
+						"y": 406,
+						"w": 18,
+						"h": 19
+					}
+				},
+				{
+					"filename": "ledgeidle7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 41,
+						"y": 426,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "walk0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 58,
+						"y": 427,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "sit0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 19,
+						"h": 17
+					},
+					"frame": {
+						"x": 98,
+						"y": 349,
+						"w": 19,
+						"h": 17
+					}
+				},
+				{
+					"filename": "sit7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 18,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 78,
+						"y": 353,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "sneak1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 22,
+						"h": 13
+					},
+					"frame": {
+						"x": 73,
+						"y": 371,
+						"w": 22,
+						"h": 13
+					}
+				},
+				{
+					"filename": "walk6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 19,
+						"h": 18
+					},
+					"frame": {
+						"x": 74,
+						"y": 386,
+						"w": 19,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wallgrab7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 78,
+						"y": 406,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "wallgrab0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 79,
+						"y": 427,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "sit4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 98,
+						"y": 368,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "walk3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 95,
+						"y": 387,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "sit6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 19,
+						"h": 17
+					},
+					"frame": {
+						"x": 95,
+						"y": 406,
+						"w": 19,
+						"h": 17
+					}
+				},
+				{
+					"filename": "walk7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 17,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 96,
+						"y": 425,
+						"w": 18,
+						"h": 17
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b994baeabc77f5a142f211a6a635f156:8ddb9bca3d3e5df56256864faefe80b2:0c90b9ae8b3d48d6500f6626a5b7af7b$"
+	}
+}

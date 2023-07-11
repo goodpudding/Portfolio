@@ -1,0 +1,353 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "snapWidth": 40,
+        "snapHeight": 40,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 528,
+        "borderHeight": 350
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "f52f3de4-473b-427a-aa2b-a8047739faeb",
+            "label": "image_1",
+            "texture": {
+                "key": "goodpudding_a_background_for_a_16_bit_pixelated_game_that_is_ca_60c4ec3e-9c9a-4658-a54b-1a52795afd18"
+            },
+            "x": -1,
+            "y": -14,
+            "originX": 0,
+            "originY": 0
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "dceffa04-1a13-417b-8a58-3421a9680c6e",
+            "label": "background_1",
+            "scope": "CLASS",
+            "x": -2,
+            "y": -14,
+            "tilemapId": "86d0abbd-3d22-407d-a808-beb497fbd75f",
+            "layerName": "Background",
+            "tilesets": [
+                "Portfolio",
+                "props",
+                "GUI"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "37d1c14c-93a5-4202-87fb-0413125f2c5e",
+            "label": "collision_1",
+            "scope": "CLASS",
+            "x": -2,
+            "y": -14,
+            "tilemapId": "86d0abbd-3d22-407d-a808-beb497fbd75f",
+            "layerName": "Collision",
+            "tilesets": [
+                "Portfolio",
+                "props",
+                "GUI"
+            ]
+        },
+        {
+            "type": "Text",
+            "id": "dd80400a-dc7b-4c03-9e38-623f9673efb4",
+            "label": "text_1",
+            "x": 322,
+            "y": 1871,
+            "scaleX": 0.22489658534377943,
+            "scaleY": 0.22489658534377943,
+            "text": "Instructions",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#000000ff",
+            "strokeThickness": 6
+        },
+        {
+            "type": "Text",
+            "id": "b4063f3b-bc2a-4989-8fc2-dbbacdcdb345",
+            "label": "text_2",
+            "x": 287,
+            "y": 1889,
+            "scaleX": 0.21718006065676748,
+            "scaleY": 0.21718006065676748,
+            "text": "Use the left and right arrow to move. \nPress spacebar to jump.\nHold the up arrow to float up.",
+            "fontSize": "40px",
+            "color": "#000000ff",
+            "stroke": "#000000ff",
+            "strokeThickness": 4
+        },
+        {
+            "type": "Container",
+            "id": "bb64e0db-1f4e-45ec-8305-2ce3dc6a0481",
+            "label": "container_1",
+            "x": 109,
+            "y": 611,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "da1e1129-3b7b-495e-9a91-34f73cd12055",
+                    "label": "hornedBeastSmall",
+                    "texture": {
+                        "key": "HornedBeastSmall"
+                    },
+                    "x": -2,
+                    "y": 960
+                },
+                {
+                    "type": "Image",
+                    "id": "5f6f836a-eb8c-4052-bd63-14217b7f1ffe",
+                    "label": "wTFSmall",
+                    "texture": {
+                        "key": "WTFSmall"
+                    },
+                    "x": 306,
+                    "y": 639
+                },
+                {
+                    "type": "Image",
+                    "id": "dd1a1648-70c1-4a1b-b772-df0bb0b91229",
+                    "label": "consoleQuestScreenShotSmall",
+                    "texture": {
+                        "key": "ConsoleQuestScreenShotSmall"
+                    },
+                    "y": 327
+                },
+                {
+                    "type": "Image",
+                    "id": "c1f4db1f-a69a-48ca-97d9-5ac317a3e6ba",
+                    "label": "consoleQuest2Small",
+                    "texture": {
+                        "key": "ConsoleQuest2Small"
+                    },
+                    "x": 306
+                },
+                {
+                    "type": "Text",
+                    "id": "6ccfbd29-d949-44ce-8154-2f292cba5995",
+                    "label": "text_3",
+                    "x": 65.32637023925781,
+                    "y": 935.78271484375,
+                    "scaleX": 0.21718006065676748,
+                    "scaleY": 0.21718006065676748,
+                    "text": "This was a my\nfirst react \nproject and\nit was so fun \nto learn how\nto use react.",
+                    "fontSize": "40px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 4,
+                    "wordWrapUseAdvanced": true
+                },
+                {
+                    "type": "Text",
+                    "id": "04b81178-cc2d-4b1a-bb5b-5d156196a205",
+                    "label": "text",
+                    "x": -54.67362976074219,
+                    "y": 994.78271484375,
+                    "scaleX": 0.22489658534377943,
+                    "scaleY": 0.22489658534377943,
+                    "text": "Horned Beasts",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                }
+            ]
+        },
+        {
+            "prefabId": "738be4dd-8184-413e-9038-4d849b039319",
+            "id": "30bd5942-901c-401a-b2dc-21d71b51985d",
+            "unlock": [
+                "x",
+                "y",
+                "texture",
+                "body.offset.x",
+                "body.offset.y",
+                "body.width",
+                "body.height",
+                "scaleX",
+                "scaleY"
+            ],
+            "label": "cat",
+            "scope": "CLASS",
+            "texture": {
+                "key": "cat",
+                "frame": "idle0.png"
+            },
+            "x": 139,
+            "y": 1838,
+            "scaleX": 1,
+            "scaleY": 1,
+            "body.width": 17,
+            "body.height": 16,
+            "body.offset.x": 10,
+            "body.offset.y": 17
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "ca6754d9-db39-4b04-83c9-5fbffc8c0459",
+            "label": "foreGround_1",
+            "scope": "CLASS",
+            "x": -1,
+            "y": -14,
+            "tilemapId": "86d0abbd-3d22-407d-a808-beb497fbd75f",
+            "layerName": "ForeGround",
+            "tilesets": [
+                "Portfolio",
+                "props",
+                "GUI"
+            ]
+        },
+        {
+            "prefabId": "a426cc55-e78b-454d-be1f-8f09cd055b8f",
+            "id": "c60f9b4b-ec7a-49b0-9f81-f445e5fd2ace",
+            "unlock": [
+                "x",
+                "y",
+                "website"
+            ],
+            "label": "squirrel1",
+            "scope": "CLASS",
+            "website": "https://github.com/goodpudding/gallery-of-horns/tree/main",
+            "x": 102,
+            "y": 1634
+        },
+        {
+            "prefabId": "a426cc55-e78b-454d-be1f-8f09cd055b8f",
+            "id": "7c0806ae-282c-426c-b74f-ac5fdd9c04a4",
+            "unlock": [
+                "x",
+                "y",
+                "flipX",
+                "flipY",
+                "website"
+            ],
+            "label": "squirrel2",
+            "website": "https://github.com/Team-Fox-trot/What-the-Fox",
+            "x": 422,
+            "y": 1314,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "prefabId": "a426cc55-e78b-454d-be1f-8f09cd055b8f",
+            "id": "04e19b9b-c849-46df-aee6-367030c1ed4b",
+            "unlock": [
+                "x",
+                "y",
+                "website"
+            ],
+            "label": "squirrel3",
+            "website": "https://github.com/Console-Quest/console-quest",
+            "x": 101,
+            "y": 994
+        },
+        {
+            "prefabId": "a426cc55-e78b-454d-be1f-8f09cd055b8f",
+            "id": "c978e323-464c-44b4-8850-f0e46c1f8200",
+            "unlock": [
+                "x",
+                "y",
+                "flipX",
+                "flipY",
+                "website"
+            ],
+            "label": "squirrel",
+            "website": "https://github.com/Console-Quest/console-quest-two",
+            "x": 439,
+            "y": 674,
+            "flipX": true,
+            "flipY": false
+        }
+    ],
+    "plainObjects": [
+        {
+            "id": "86d0abbd-3d22-407d-a808-beb497fbd75f",
+            "type": "Tilemap",
+            "label": "v1_2_portfolio",
+            "key": "V1.2_portfolio",
+            "tilesets": [
+                {
+                    "name": "Portfolio",
+                    "imageKey": "tileset"
+                },
+                {
+                    "name": "props",
+                    "imageKey": "props"
+                },
+                {
+                    "name": "GUI",
+                    "imageKey": "GUI"
+                }
+            ]
+        },
+        {
+            "id": "57371298-a04e-4a43-a27d-70e8074cc5c4",
+            "type": "Keyboard.Key",
+            "label": "spaceKey"
+        },
+        {
+            "id": "01717283-e45b-45ec-9f73-e3bf1235870c",
+            "type": "Keyboard.Key",
+            "label": "rightKey",
+            "keyCode": "RIGHT"
+        },
+        {
+            "id": "ada76d23-5a3f-49cb-a046-34a18aca9eca",
+            "type": "Keyboard.Key",
+            "label": "leftKey",
+            "keyCode": "LEFT"
+        },
+        {
+            "id": "516b39b9-68a3-4927-a6fa-f45c43feb85c",
+            "type": "Keyboard.Key",
+            "label": "upKey",
+            "keyCode": "UP"
+        },
+        {
+            "id": "10a0ef66-09a7-49a1-8a31-fd26ea722824",
+            "type": "Keyboard.Key",
+            "label": "downKey",
+            "keyCode": "DOWN"
+        },
+        {
+            "id": "595a7237-62be-495d-b8b6-db0e96b9a2b8",
+            "type": "Collider",
+            "label": "HornedBeastSquirrel",
+            "scope": "LOCAL",
+            "object1": "cat",
+            "object2": "squirrels",
+            "collideCallback": "this.openWebsite",
+            "callbackContext": "this"
+        },
+        {
+            "id": "14f3c0a5-214b-4185-bb87-991e7c215fe5",
+            "type": "Collider",
+            "label": "collider",
+            "scope": "LOCAL",
+            "object1": "cat",
+            "object2": "collision_1"
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "lists": [
+        {
+            "id": "e4824a3a-1447-4be8-8f9b-912d05311a49",
+            "label": "squirrels",
+            "objectIds": [
+                "c60f9b4b-ec7a-49b0-9f81-f445e5fd2ace",
+                "7c0806ae-282c-426c-b74f-ac5fdd9c04a4",
+                "04e19b9b-c849-46df-aee6-367030c1ed4b",
+                "c978e323-464c-44b4-8850-f0e46c1f8200"
+            ]
+        }
+    ]
+}

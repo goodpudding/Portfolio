@@ -1,0 +1,278 @@
+{
+    "anims": [
+        {
+            "key": "Squirrel_Die",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Die_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Die_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Die_3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Die_4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "Squirrel_Dig",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Dig_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Dig_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Dig_3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Dig_4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "Squirrel_Eat",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Eat_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Eat_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "Squirrel_Idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle_2_6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Idle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "Squirrel_Jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Jump_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Jump_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Jump_3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Jump_4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "Squirrel_Movement",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "squirrel",
+                    "frame": "Squirrel_Movement_8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

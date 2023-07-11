@@ -1,0 +1,734 @@
+{
+	"textures": [
+		{
+			"image": "squirrel.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 126,
+				"h": 84
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Squirrel_Movement_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 22,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 19
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 12,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 22,
+						"w": 23,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 21,
+						"h": 17
+					},
+					"frame": {
+						"x": 25,
+						"y": 1,
+						"w": 21,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 22,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 22,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 23,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 59,
+						"w": 23,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Die_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 22,
+						"h": 7
+					},
+					"frame": {
+						"x": 1,
+						"y": 76,
+						"w": 22,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Squirrel_Die_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 22,
+						"h": 7
+					},
+					"frame": {
+						"x": 1,
+						"y": 76,
+						"w": 22,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 15,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 25,
+						"y": 41,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 20,
+						"h": 17
+					},
+					"frame": {
+						"x": 26,
+						"y": 20,
+						"w": 20,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Squirrel_Dig_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 20,
+						"h": 15
+					},
+					"frame": {
+						"x": 26,
+						"y": 58,
+						"w": 20,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Die_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 24,
+						"w": 21,
+						"h": 8
+					},
+					"frame": {
+						"x": 26,
+						"y": 75,
+						"w": 21,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Squirrel_Movement_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 15,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 48,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Dig_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 19,
+						"h": 15
+					},
+					"frame": {
+						"x": 48,
+						"y": 17,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Dig_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 18,
+						"w": 20,
+						"h": 14
+					},
+					"frame": {
+						"x": 48,
+						"y": 34,
+						"w": 20,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Dig_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 69,
+						"y": 17,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 18,
+						"w": 18,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 1,
+						"w": 18,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 17,
+						"h": 16
+					},
+					"frame": {
+						"x": 48,
+						"y": 50,
+						"w": 17,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Squirrel_Idle4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 17,
+						"h": 15
+					},
+					"frame": {
+						"x": 49,
+						"y": 68,
+						"w": 17,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 67,
+						"y": 50,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Squirrel_Idle1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 70,
+						"y": 33,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 70,
+						"y": 33,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Jump_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 70,
+						"y": 33,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 18,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 68,
+						"y": 68,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Jump_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 84,
+						"y": 49,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Jump_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 84,
+						"y": 49,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Jump_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 17,
+						"h": 14
+					},
+					"frame": {
+						"x": 89,
+						"y": 33,
+						"w": 17,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 18,
+						"h": 13
+					},
+					"frame": {
+						"x": 90,
+						"y": 17,
+						"w": 18,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 18,
+						"h": 13
+					},
+					"frame": {
+						"x": 90,
+						"y": 17,
+						"w": 18,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Squirrel_Eat_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Eat_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 109,
+						"y": 1,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 87,
+						"y": 65,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Squirrel_Die_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 18,
+						"h": 12
+					},
+					"frame": {
+						"x": 103,
+						"y": 49,
+						"w": 18,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Squirrel_Idle_2_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 17,
+						"h": 12
+					},
+					"frame": {
+						"x": 108,
+						"y": 32,
+						"w": 17,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Squirrel_Idle5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 18,
+						"h": 12
+					},
+					"frame": {
+						"x": 104,
+						"y": 63,
+						"w": 18,
+						"h": 12
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8fb5dbce9e23af551d43dff1f31e72c7:0733158374e333f289b3f28f683c0fa9:78fd1ac9a53d02898bbcd8629e718170$"
+	}
+}

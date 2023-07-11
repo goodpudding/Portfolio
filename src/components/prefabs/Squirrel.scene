@@ -1,0 +1,64 @@
+{
+    "id": "a426cc55-e78b-454d-be1f-8f09cd055b8f",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 528,
+        "borderHeight": 350
+    },
+    "displayList": [
+        {
+            "type": "ArcadeSprite",
+            "id": "46435b42-c11f-446e-bef0-162461b0d49e",
+            "label": "arcadeimage_1",
+            "hitArea.shape": "RECTANGLE",
+            "hitArea.width": 32,
+            "hitArea.height": 32,
+            "hitArea.x": 16,
+            "hitArea.y": 16,
+            "hitArea.radius": 16,
+            "texture": {
+                "key": "squirrel",
+                "frame": "Squirrel_Idle1.png"
+            },
+            "x": 37,
+            "y": 24,
+            "body.width": 16,
+            "body.height": 13,
+            "body.offset.x": 8,
+            "body.offset.y": 19,
+            "list": [
+                {
+                    "prefabId": "61dde64d-6c82-4109-a4a2-c88cb5eb249d",
+                    "id": "c2bd10a6-a3b5-479e-85a8-fe75c06de550",
+                    "unlock": [
+                        "animationKey"
+                    ],
+                    "label": "startAnimationScript",
+                    "animationKey": "Squirrel_Idle"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "website",
+            "label": "website",
+            "tooltip": "Property 1",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "string"
+            }
+        }
+    ]
+}
