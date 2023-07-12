@@ -227,6 +227,9 @@ class Level extends Phaser.Scene {
 		// collider
 		this.physics.add.collider(cat, collision_1);
 
+		// collider_1
+		this.physics.add.collider(cat, foreGround_1);
+
 		// squirrel1 (prefab fields)
 		squirrel1.website = "https://github.com/goodpudding/gallery-of-horns/tree/main";
 
@@ -299,7 +302,7 @@ class Level extends Phaser.Scene {
     this.initCamera();
 
     // Iterate over the layers
-    const layers = [this.collision_1];
+    const layers = [this.collision_1, this.foreGround_1];
     layers.forEach((layer) => {
       const tilesets = layer.layer.tilemapLayer.tilemap.tilesets;
       tilesets.forEach((tileset) => {

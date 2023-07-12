@@ -524,6 +524,14 @@
             "scope": "LOCAL",
             "object1": "cat",
             "object2": "collision_1"
+        },
+        {
+            "id": "f27aff9b-2d44-4b16-b70d-91362ee68698",
+            "type": "Collider",
+            "label": "collider_1",
+            "scope": "LOCAL",
+            "object1": "cat",
+            "object2": "foreGround_1"
         }
     ],
     "meta": {
