@@ -25,6 +25,29 @@ class Cat extends Phaser.Physics.Arcade.Sprite {
 		/* END-USER-CTR-CODE */
 	}
 
+	/** @type {string} */
+	walk = "cat_walk";
+	/** @type {string} */
+	jump = "cat_jump";
+	/** @type {string} */
+	fall = "cat_fall";
+	/** @type {string} */
+	crouch = "cat_crouch";
+	/** @type {string} */
+	idle_blink = "cat_idle_blink";
+	/** @type {string} */
+	sneak = "cat_sneak";
+	/** @type {string} */
+	land = "cat_land";
+	/** @type {string} */
+	idle = "cat_idle";
+	/** @type {string} */
+	sit = "cat_sit";
+	/** @type {string} */
+	liedown = "cat_liedown";
+	/** @type {string} */
+	meow1 = "8Bitcat-meow_1";
+
 	/* START-USER-CODE */
 
 	// Write your code here.

@@ -44,5 +44,117 @@
         "url": "https://phasereditor2d.com",
         "contentType": "phasereditor2d.core.scene.SceneContentType",
         "version": 4
-    }
+    },
+    "prefabProperties": [
+        {
+            "name": "walk",
+            "label": "walk",
+            "tooltip": "Property 1",
+            "defValue": "cat_walk",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "jump",
+            "label": "jump",
+            "tooltip": "Property 1",
+            "defValue": "cat_jump",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "fall",
+            "label": "fall",
+            "tooltip": "Property 1",
+            "defValue": "cat_fall",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "crouch",
+            "label": "crouch",
+            "tooltip": "Property 1",
+            "defValue": "cat_crouch",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "idle_blink",
+            "label": "idle_blink",
+            "tooltip": "Property 1",
+            "defValue": "cat_idle_blink",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "sneak",
+            "label": "sneak",
+            "tooltip": "Property 1",
+            "defValue": "cat_sneak",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "land",
+            "label": "land",
+            "tooltip": "Property 1",
+            "defValue": "cat_land",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "idle",
+            "label": "idle",
+            "tooltip": "Property 1",
+            "defValue": "cat_idle",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "sit",
+            "label": "sit",
+            "tooltip": "Property 1",
+            "defValue": "cat_sit",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "liedown",
+            "label": "liedown",
+            "tooltip": "Property 1",
+            "defValue": "cat_liedown",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        },
+        {
+            "name": "meow1",
+            "label": "meow1",
+            "tooltip": "Property 1",
+            "defValue": "8Bitcat-meow_1",
+            "customDefinition": false,
+            "type": {
+                "id": "audio-key"
+            }
+        }
+    ]
 }

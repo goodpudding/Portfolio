@@ -71,11 +71,11 @@
             "type": "Text",
             "id": "b4063f3b-bc2a-4989-8fc2-dbbacdcdb345",
             "label": "text_2",
-            "x": 287,
+            "x": 284,
             "y": 1889,
             "scaleX": 0.21718006065676748,
             "scaleY": 0.21718006065676748,
-            "text": "Use the left and right arrow to move. \nPress spacebar to jump.\nHold the up arrow to float up.",
+            "text": "Use the left and right arrow to move. \nPress spacebar to jump.\nHold the up arrow to float up.\nCatch the squirrel to open the github.",
             "fontSize": "40px",
             "color": "#000000ff",
             "stroke": "#000000ff",
@@ -105,8 +105,10 @@
                     "texture": {
                         "key": "WTFSmall"
                     },
-                    "x": 306,
-                    "y": 639
+                    "x": 313,
+                    "y": 638,
+                    "scaleX": 0.9164434635316165,
+                    "scaleY": 0.9164434635316165
                 },
                 {
                     "type": "Image",
@@ -115,7 +117,10 @@
                     "texture": {
                         "key": "ConsoleQuestScreenShotSmall"
                     },
-                    "y": 327
+                    "x": -2,
+                    "y": 316,
+                    "scaleX": 0.765261458422027,
+                    "scaleY": 0.765261458422027
                 },
                 {
                     "type": "Image",
@@ -124,7 +129,10 @@
                     "texture": {
                         "key": "ConsoleQuest2Small"
                     },
-                    "x": 306
+                    "x": 315,
+                    "y": -5,
+                    "scaleX": 0.8779839567674348,
+                    "scaleY": 0.8779839567674348
                 },
                 {
                     "type": "Text",
@@ -134,7 +142,7 @@
                     "y": 935.78271484375,
                     "scaleX": 0.21718006065676748,
                     "scaleY": 0.21718006065676748,
-                    "text": "This was a my\nfirst react \nproject and\nit was so fun \nto learn how\nto use react.",
+                    "text": "This was a my\nfirst React \nproject and\nit was so fun \nto learn how\nto use React.",
                     "fontSize": "40px",
                     "color": "#000000ff",
                     "stroke": "#000000ff",
@@ -154,6 +162,121 @@
                     "color": "#000000ff",
                     "stroke": "#000000ff",
                     "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "9d09b465-c5d5-4a87-ac63-0cb4d6d6354a",
+                    "label": "text_4",
+                    "x": 256,
+                    "y": 675,
+                    "scaleX": 0.22489658534377943,
+                    "scaleY": 0.22489658534377943,
+                    "text": "What the Fox",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "dfa758de-8cff-4f7c-8e8c-a1d4e126bc90",
+                    "label": "text_5",
+                    "x": -57,
+                    "y": 353,
+                    "scaleX": 0.22489658534377943,
+                    "scaleY": 0.22489658534377943,
+                    "text": "Console Quest",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "841f0086-39a5-4aa2-a2b1-24ad9b643cfd",
+                    "label": "text_6",
+                    "x": 262,
+                    "y": 31,
+                    "scaleX": 0.19803311217747327,
+                    "scaleY": 0.19803311217747327,
+                    "text": "Console Quest 2",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "16031ef9-ebca-4dea-8634-ca1a66a7747f",
+                    "label": "text_7",
+                    "x": 125,
+                    "y": -357,
+                    "scaleX": 0.22489658534377943,
+                    "scaleY": 0.22489658534377943,
+                    "text": "Thank You!",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "a44497fe-1314-458b-9ecf-de8ad0935a33",
+                    "label": "text_8",
+                    "x": 70,
+                    "y": -336,
+                    "scaleX": 0.16156144621080226,
+                    "scaleY": 0.16156144621080226,
+                    "text": "Hit the Icon to open to my page\n",
+                    "fontSize": "60px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 6
+                },
+                {
+                    "type": "Text",
+                    "id": "23f4afb2-50cf-4028-9b29-3552cdad951f",
+                    "label": "text_9",
+                    "x": 174,
+                    "y": 608,
+                    "scaleX": 0.21718006065676748,
+                    "scaleY": 0.21718006065676748,
+                    "text": "My first team\nproject \nworking with \nReact and APIs.\nI had so much \nfun learning \nhow to connect \nto API's.",
+                    "fontSize": "40px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 4,
+                    "wordWrapUseAdvanced": true
+                },
+                {
+                    "type": "Text",
+                    "id": "0036e5e6-c48f-4379-9f45-0b1f4dda0658",
+                    "label": "text_10",
+                    "x": 52,
+                    "y": 288,
+                    "scaleX": 0.21718006065676748,
+                    "scaleY": 0.21718006065676748,
+                    "text": "Another Team\nproject where\nwe connected to\nthe OpenAI API\nand used it to\ncreate a neat \ntext based RPG \ngame, using\nChatGPT.",
+                    "fontSize": "40px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 4,
+                    "wordWrapUseAdvanced": true
+                },
+                {
+                    "type": "Text",
+                    "id": "f1d808d9-1369-42d4-bba1-51567497c86b",
+                    "label": "text_11",
+                    "x": 174,
+                    "y": -33,
+                    "scaleX": 0.20310604683683303,
+                    "scaleY": 0.20310604683683303,
+                    "text": "It started as\na continuation\nof the original, \nbut I played\naround with the\nPhaser.js \nframework and my\nteam wanted to \nmake a more visual\ngame.",
+                    "fontSize": "40px",
+                    "color": "#000000ff",
+                    "stroke": "#000000ff",
+                    "strokeThickness": 4,
+                    "wordWrapUseAdvanced": true
                 }
             ]
         },
@@ -177,8 +300,8 @@
                 "key": "cat",
                 "frame": "idle0.png"
             },
-            "x": 139,
-            "y": 1838,
+            "x": 145,
+            "y": 1921,
             "scaleX": 1,
             "scaleY": 1,
             "body.width": 17,
@@ -255,12 +378,83 @@
                 "flipY",
                 "website"
             ],
-            "label": "squirrel",
+            "label": "squirrel4",
             "website": "https://github.com/Console-Quest/console-quest-two",
             "x": 439,
             "y": 674,
             "flipX": true,
             "flipY": false
+        },
+        {
+            "prefabId": "e2f11efb-c066-46cf-8c00-332ad84b12a0",
+            "id": "b62e1954-8d8b-4bfa-b65b-3e913ccb16af",
+            "unlock": [
+                "x",
+                "y",
+                "texture",
+                "scaleX",
+                "scaleY",
+                "website",
+                "body.offset.x",
+                "body.offset.y",
+                "body.width",
+                "body.height"
+            ],
+            "label": "icons_1",
+            "website": "https://github.com/goodpudding",
+            "texture": {
+                "key": "Github"
+            },
+            "x": 341,
+            "y": 325,
+            "scaleX": 0.05963484962504077,
+            "scaleY": 0.05963484962504077,
+            "body.width": 514,
+            "body.height": 514,
+            "body.offset.x": 0,
+            "body.offset.y": 0
+        },
+        {
+            "prefabId": "e2f11efb-c066-46cf-8c00-332ad84b12a0",
+            "id": "6ac4b420-8ef4-4b8a-a90d-4ef1f31b5589",
+            "unlock": [
+                "x",
+                "y",
+                "texture",
+                "scaleX",
+                "scaleY",
+                "website",
+                "body.offset.x",
+                "body.offset.y",
+                "body.width",
+                "body.height"
+            ],
+            "label": "icons",
+            "website": "https://www.linkedin.com/in/jamestreyyoung/",
+            "texture": {
+                "key": "linkedin"
+            },
+            "x": 270,
+            "y": 327,
+            "scaleX": 0.05766017079527542,
+            "scaleY": 0.05766017079527542,
+            "body.width": 513,
+            "body.height": 510,
+            "body.offset.x": 0,
+            "body.offset.y": 0
+        },
+        {
+            "prefabId": "e2f11efb-c066-46cf-8c00-332ad84b12a0",
+            "id": "cd6c0fdd-f2a1-4d31-86f7-793f63241b85",
+            "unlock": [
+                "x",
+                "y",
+                "website"
+            ],
+            "label": "Itch",
+            "website": "https://itch.io/c/3473941/portfolio",
+            "x": 202,
+            "y": 326
         }
     ],
     "plainObjects": [
@@ -316,7 +510,7 @@
         {
             "id": "595a7237-62be-495d-b8b6-db0e96b9a2b8",
             "type": "Collider",
-            "label": "HornedBeastSquirrel",
+            "label": "websiteSquirrels",
             "scope": "LOCAL",
             "object1": "cat",
             "object2": "squirrels",
@@ -346,7 +540,10 @@
                 "c60f9b4b-ec7a-49b0-9f81-f445e5fd2ace",
                 "7c0806ae-282c-426c-b74f-ac5fdd9c04a4",
                 "04e19b9b-c849-46df-aee6-367030c1ed4b",
-                "c978e323-464c-44b4-8850-f0e46c1f8200"
+                "c978e323-464c-44b4-8850-f0e46c1f8200",
+                "cd6c0fdd-f2a1-4d31-86f7-793f63241b85",
+                "6ac4b420-8ef4-4b8a-a90d-4ef1f31b5589",
+                "b62e1954-8d8b-4bfa-b65b-3e913ccb16af"
             ]
         }
     ]

@@ -2,6 +2,48 @@
     "section1": {
         "files": [
             {
+                "url": [
+                    "assets/8Bitcat-meow_1.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-meow_1"
+            },
+            {
+                "url": [
+                    "assets/8Bitcat-meow_2.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-meow_2"
+            },
+            {
+                "url": [
+                    "assets/8Bitcat-meow_3.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-meow_3"
+            },
+            {
+                "url": [
+                    "assets/8Bitcat-meow_4.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-meow_4"
+            },
+            {
+                "url": [
+                    "assets/8Bitcat-meow_5.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-meow_5"
+            },
+            {
+                "url": [
+                    "assets/8Bitcat-screaming_1.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-screaming_1"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/cat.json",
                 "path": "assets",
@@ -28,6 +70,17 @@
                 "type": "image"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/Font.json",
+                "path": "assets",
+                "key": "Font"
+            },
+            {
+                "url": "assets/Github.png",
+                "type": "image",
+                "key": "Github"
+            },
+            {
                 "url": "assets/goodpudding_a_background_for_a_16_bit_pixelated_game_that_is_ca_60c4ec3e-9c9a-4658-a54b-1a52795afd18.png",
                 "type": "image",
                 "key": "goodpudding_a_background_for_a_16_bit_pixelated_game_that_is_ca_60c4ec3e-9c9a-4658-a54b-1a52795afd18"
@@ -49,6 +102,16 @@
                 "url": "assets/HornedBeastSmall.png",
                 "type": "image",
                 "key": "HornedBeastSmall"
+            },
+            {
+                "url": "assets/itch-io.png",
+                "type": "image",
+                "key": "itch-io"
+            },
+            {
+                "url": "assets/linkedin.png",
+                "type": "image",
+                "key": "linkedin"
             },
             {
                 "url": "assets/props.png",
@@ -93,29 +156,8 @@
                 "key": "V1.2_portfolio"
             },
             {
-                "url": "assets/WoodPressed.bmp",
-                "frameConfig": {
-                    "frameWidth": 15,
-                    "frameHeight": 25,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "WoodPressed"
-            },
-            {
                 "url": "assets/WoodPressed-5x.bmp",
-                "frameConfig": {
-                    "frameWidth": 75,
-                    "frameHeight": 125,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
+                "type": "image",
                 "key": "WoodPressed-5x"
             },
             {

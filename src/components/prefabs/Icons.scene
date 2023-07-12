@@ -1,0 +1,52 @@
+{
+    "id": "e2f11efb-c066-46cf-8c00-332ad84b12a0",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 528,
+        "borderHeight": 350
+    },
+    "displayList": [
+        {
+            "type": "ArcadeImage",
+            "id": "4424b894-6d4f-4cbe-9785-826f24cd56dd",
+            "label": "image_2",
+            "hitArea.shape": "RECTANGLE",
+            "hitArea.width": 10,
+            "hitArea.height": 10,
+            "hitArea.radius": 3,
+            "hitArea.x": 1024,
+            "hitArea.y": 1024,
+            "texture": {
+                "key": "itch-io"
+            },
+            "x": 104,
+            "y": 53,
+            "scaleX": 0.015031028725241168,
+            "scaleY": 0.015031028725241168,
+            "body.width": 2048,
+            "body.height": 2048
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "website",
+            "label": "website",
+            "tooltip": "Property 1",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "string"
+            }
+        }
+    ]
+}

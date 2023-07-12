@@ -52,10 +52,10 @@ class Level extends Phaser.Scene {
 		text_1.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
 
 		// text_2
-		const text_2 = this.add.text(287, 1889, "", {});
+		const text_2 = this.add.text(284, 1889, "", {});
 		text_2.scaleX = 0.21718006065676748;
 		text_2.scaleY = 0.21718006065676748;
-		text_2.text = "Use the left and right arrow to move. \nPress spacebar to jump.\nHold the up arrow to float up.";
+		text_2.text = "Use the left and right arrow to move. \nPress spacebar to jump.\nHold the up arrow to float up.\nCatch the squirrel to open the github.";
 		text_2.setStyle({ "color": "#000000ff", "fontSize": "40px", "stroke": "#000000ff", "strokeThickness":4});
 
 		// container_1
@@ -66,22 +66,28 @@ class Level extends Phaser.Scene {
 		container_1.add(hornedBeastSmall);
 
 		// wTFSmall
-		const wTFSmall = this.add.image(306, 639, "WTFSmall");
+		const wTFSmall = this.add.image(313, 638, "WTFSmall");
+		wTFSmall.scaleX = 0.9164434635316165;
+		wTFSmall.scaleY = 0.9164434635316165;
 		container_1.add(wTFSmall);
 
 		// consoleQuestScreenShotSmall
-		const consoleQuestScreenShotSmall = this.add.image(0, 327, "ConsoleQuestScreenShotSmall");
+		const consoleQuestScreenShotSmall = this.add.image(-2, 316, "ConsoleQuestScreenShotSmall");
+		consoleQuestScreenShotSmall.scaleX = 0.765261458422027;
+		consoleQuestScreenShotSmall.scaleY = 0.765261458422027;
 		container_1.add(consoleQuestScreenShotSmall);
 
 		// consoleQuest2Small
-		const consoleQuest2Small = this.add.image(306, 0, "ConsoleQuest2Small");
+		const consoleQuest2Small = this.add.image(315, -5, "ConsoleQuest2Small");
+		consoleQuest2Small.scaleX = 0.8779839567674348;
+		consoleQuest2Small.scaleY = 0.8779839567674348;
 		container_1.add(consoleQuest2Small);
 
 		// text_3
 		const text_3 = this.add.text(65.32637023925781, 935.78271484375, "", {});
 		text_3.scaleX = 0.21718006065676748;
 		text_3.scaleY = 0.21718006065676748;
-		text_3.text = "This was a my\nfirst react \nproject and\nit was so fun \nto learn how\nto use react.";
+		text_3.text = "This was a my\nfirst React \nproject and\nit was so fun \nto learn how\nto use React.";
 		text_3.setStyle({ "color": "#000000ff", "fontSize": "40px", "stroke": "#000000ff", "strokeThickness":4});
 		text_3.setWordWrapWidth(text_3.style.wordWrapWidth, true);
 		container_1.add(text_3);
@@ -94,8 +100,75 @@ class Level extends Phaser.Scene {
 		text.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
 		container_1.add(text);
 
+		// text_4
+		const text_4 = this.add.text(256, 675, "", {});
+		text_4.scaleX = 0.22489658534377943;
+		text_4.scaleY = 0.22489658534377943;
+		text_4.text = "What the Fox";
+		text_4.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
+		container_1.add(text_4);
+
+		// text_5
+		const text_5 = this.add.text(-57, 353, "", {});
+		text_5.scaleX = 0.22489658534377943;
+		text_5.scaleY = 0.22489658534377943;
+		text_5.text = "Console Quest";
+		text_5.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
+		container_1.add(text_5);
+
+		// text_6
+		const text_6 = this.add.text(262, 31, "", {});
+		text_6.scaleX = 0.19803311217747327;
+		text_6.scaleY = 0.19803311217747327;
+		text_6.text = "Console Quest 2";
+		text_6.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
+		container_1.add(text_6);
+
+		// text_7
+		const text_7 = this.add.text(125, -357, "", {});
+		text_7.scaleX = 0.22489658534377943;
+		text_7.scaleY = 0.22489658534377943;
+		text_7.text = "Thank You!";
+		text_7.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
+		container_1.add(text_7);
+
+		// text_8
+		const text_8 = this.add.text(70, -336, "", {});
+		text_8.scaleX = 0.16156144621080226;
+		text_8.scaleY = 0.16156144621080226;
+		text_8.text = "Hit the Icon to open to my page\n";
+		text_8.setStyle({ "color": "#000000ff", "fontSize": "60px", "stroke": "#000000ff", "strokeThickness":6});
+		container_1.add(text_8);
+
+		// text_9
+		const text_9 = this.add.text(174, 608, "", {});
+		text_9.scaleX = 0.21718006065676748;
+		text_9.scaleY = 0.21718006065676748;
+		text_9.text = "My first team\nproject \nworking with \nReact and APIs.\nI had so much \nfun learning \nhow to connect \nto API's.";
+		text_9.setStyle({ "color": "#000000ff", "fontSize": "40px", "stroke": "#000000ff", "strokeThickness":4});
+		text_9.setWordWrapWidth(text_9.style.wordWrapWidth, true);
+		container_1.add(text_9);
+
+		// text_10
+		const text_10 = this.add.text(52, 288, "", {});
+		text_10.scaleX = 0.21718006065676748;
+		text_10.scaleY = 0.21718006065676748;
+		text_10.text = "Another Team\nproject where\nwe connected to\nthe OpenAI API\nand used it to\ncreate a neat \ntext based RPG \ngame, using\nChatGPT.";
+		text_10.setStyle({ "color": "#000000ff", "fontSize": "40px", "stroke": "#000000ff", "strokeThickness":4});
+		text_10.setWordWrapWidth(text_10.style.wordWrapWidth, true);
+		container_1.add(text_10);
+
+		// text_11
+		const text_11 = this.add.text(174, -33, "", {});
+		text_11.scaleX = 0.20310604683683303;
+		text_11.scaleY = 0.20310604683683303;
+		text_11.text = "It started as\na continuation\nof the original, \nbut I played\naround with the\nPhaser.js \nframework and my\nteam wanted to \nmake a more visual\ngame.";
+		text_11.setStyle({ "color": "#000000ff", "fontSize": "40px", "stroke": "#000000ff", "strokeThickness":4});
+		text_11.setWordWrapWidth(text_11.style.wordWrapWidth, true);
+		container_1.add(text_11);
+
 		// cat
-		const cat = new Cat(this, 139, 1838, "cat", "idle0.png");
+		const cat = new Cat(this, 145, 1921, "cat", "idle0.png");
 		this.add.existing(cat);
 		cat.scaleX = 1;
 		cat.scaleY = 1;
@@ -119,16 +192,36 @@ class Level extends Phaser.Scene {
 		const squirrel3 = new Squirrel(this, 101, 994);
 		this.add.existing(squirrel3);
 
-		// squirrel
-		const squirrel = new Squirrel(this, 439, 674);
-		this.add.existing(squirrel);
-		squirrel.flipX = true;
-		squirrel.flipY = false;
+		// squirrel4
+		const squirrel4 = new Squirrel(this, 439, 674);
+		this.add.existing(squirrel4);
+		squirrel4.flipX = true;
+		squirrel4.flipY = false;
+
+		// icons_1
+		const icons_1 = new Icons(this, 341, 325, "Github");
+		this.add.existing(icons_1);
+		icons_1.scaleX = 0.05963484962504077;
+		icons_1.scaleY = 0.05963484962504077;
+		icons_1.body.setOffset(0, 0);
+		icons_1.body.setSize(514, 514, false);
+
+		// icons
+		const icons = new Icons(this, 270, 327, "linkedin");
+		this.add.existing(icons);
+		icons.scaleX = 0.05766017079527542;
+		icons.scaleY = 0.05766017079527542;
+		icons.body.setOffset(0, 0);
+		icons.body.setSize(513, 510, false);
+
+		// Itch
+		const itch = new Icons(this, 202, 326);
+		this.add.existing(itch);
 
 		// lists
-		const squirrels = [squirrel1, squirrel2, squirrel3, squirrel];
+		const squirrels = [squirrel1, squirrel2, squirrel3, squirrel4, itch, icons, icons_1];
 
-		// HornedBeastSquirrel
+		// websiteSquirrels
 		this.physics.add.collider(cat, squirrels, this.openWebsite, undefined, this);
 
 		// collider
@@ -143,8 +236,17 @@ class Level extends Phaser.Scene {
 		// squirrel3 (prefab fields)
 		squirrel3.website = "https://github.com/Console-Quest/console-quest";
 
-		// squirrel (prefab fields)
-		squirrel.website = "https://github.com/Console-Quest/console-quest-two";
+		// squirrel4 (prefab fields)
+		squirrel4.website = "https://github.com/Console-Quest/console-quest-two";
+
+		// icons_1 (prefab fields)
+		icons_1.website = "https://github.com/goodpudding";
+
+		// icons (prefab fields)
+		icons.website = "https://www.linkedin.com/in/jamestreyyoung/";
+
+		// itch (prefab fields)
+		itch.website = "https://itch.io/c/3473941/portfolio";
 
 		this.background_1 = background_1;
 		this.collision_1 = collision_1;
@@ -184,7 +286,7 @@ class Level extends Phaser.Scene {
 	upKey;
 	/** @type {Phaser.Input.Keyboard.Key} */
 	downKey;
-	/** @type {Squirrel[]} */
+	/** @type {Array<Squirrel|Icons>} */
 	squirrels;
 
 	/* START-USER-CODE */
