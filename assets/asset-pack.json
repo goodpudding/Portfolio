@@ -3,6 +3,13 @@
         "files": [
             {
                 "url": [
+                    "assets/8Bitcat-annoyedcatmeowsgruntsvowels.wav"
+                ],
+                "type": "audio",
+                "key": "8Bitcat-annoyedcatmeowsgruntsvowels"
+            },
+            {
+                "url": [
                     "assets/8Bitcat-meow_1.wav"
                 ],
                 "type": "audio",
@@ -74,6 +81,13 @@
                 "url": "assets/Font.json",
                 "path": "assets",
                 "key": "Font"
+            },
+            {
+                "url": [
+                    "assets/game-music-loop-19-153393.mp3"
+                ],
+                "type": "audio",
+                "key": "game-music-loop-19-153393"
             },
             {
                 "url": "assets/Github.png",
